@@ -90,7 +90,7 @@ const DashboardStyled = styled.div`
                     border: 2px solid #FFFFFF;
                     box-shadow: 0px 1px 15px rgba(0, 0, 0, 0.06);
                     border-radius: 20px;
-                    padding: 1rem;
+                    padding: 0.5rem;
                     p{
                         font-size: 3.5rem;
                         font-weight: 700;
@@ -99,6 +99,7 @@ const DashboardStyled = styled.div`
 
                 .balance{
                     grid-column: 2 / 4;
+                    width:330px;
                     display: flex;
                     flex-direction: column;
                     justify-content: center;
