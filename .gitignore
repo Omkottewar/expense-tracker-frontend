@@ -1,0 +1,74 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Compiled output
+dist/
+build/
+.out/
+.next/
+
+# Static site generators
+.cache/
+.cache-loader/
+
+# Testing
+coverage/
+.nyc_output/
+.vscode-test/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# IDE/Editor settings
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache directory
+.npm/
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Package-lock and Yarn lock
+package-lock.json
+yarn.lock
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Debugging
+debug/
+
+# Miscellaneous
+*.log
+*.gz
+*.zip
+*.tar
+*.tgz
+*.rar
+*.7z
